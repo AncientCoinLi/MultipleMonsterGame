@@ -3,9 +3,9 @@ package MonsterGame.Client.View;
 import java.util.HashMap;
 
 import MonsterGame.Client.Controller.ClientController;
+import MonsterGame.Client.Controller.ClientEngine;
 import MonsterGame.Client.Model.Role;
 import MonsterGame.Client.Model.Cell;
-import MonsterGame.Client.Model.ClientEngine;
 import MonsterGame.Client.Model.Unprocessed;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;

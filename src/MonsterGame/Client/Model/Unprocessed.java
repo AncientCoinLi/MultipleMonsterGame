@@ -2,6 +2,8 @@ package MonsterGame.Client.Model;
 
 import java.util.LinkedList;
 
+import MonsterGame.Client.Controller.ClientEngine;
+
 public class Unprocessed {
 
 	public static LinkedList<String> send;

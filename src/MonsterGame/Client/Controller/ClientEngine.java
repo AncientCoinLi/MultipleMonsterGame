@@ -1,6 +1,5 @@
-package MonsterGame.Client.Model;
+package MonsterGame.Client.Controller;
 
-import MonsterGame.Client.Controller.ClientController;
 import MonsterGame.Client.View.GameUI;
 import MonsterGame.Client.View.LoginUI;
 import MonsterGame.Client.View.MainUI;

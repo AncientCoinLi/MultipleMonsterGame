@@ -3,6 +3,8 @@ package MonsterGame.Server.Model;
 import java.net.Socket;
 import java.util.LinkedList;
 
+import MonsterGame.Server.Controller.ServerEngine;
+
 public class Unprocessed {
 
 	private static LinkedList<String> receive;

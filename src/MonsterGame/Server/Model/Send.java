@@ -5,6 +5,8 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.HashMap;
 
+import MonsterGame.Server.Controller.ServerEngine;
+
 public class Send implements Runnable {
 	public static HashMap<String, Socket> allSocket;
 	public Send(HashMap<String, Socket> allSocket, ServerEngine serverEngine) {

@@ -1,6 +1,5 @@
 package MonsterGame.Client.Controller;
 
-import MonsterGame.Client.Model.ClientEngine;
 import MonsterGame.Client.Model.Comm;
 import MonsterGame.Client.Model.Role;
 import MonsterGame.Client.Model.Unprocessed;

@@ -4,6 +4,8 @@ import java.io.IOException;
 import java.net.Socket;
 import java.util.Scanner;
 
+import MonsterGame.Server.Controller.ServerEngine;
+
 public class Receive implements Runnable {
 	private Socket socket;
 	private ServerEngine serverEngine;

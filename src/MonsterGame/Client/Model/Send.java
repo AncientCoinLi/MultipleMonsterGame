@@ -5,6 +5,8 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
+import MonsterGame.Client.Controller.ClientEngine;
+
 
 public class Send implements Runnable {
 	private Socket socket;

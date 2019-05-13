@@ -1,6 +1,6 @@
 package MonsterGame;
 
-import MonsterGame.Client.Model.ClientEngine;
+import MonsterGame.Client.Controller.ClientEngine;
 import MonsterGame.Client.Model.Comm;
 import javafx.application.Application;
 import javafx.stage.Stage;

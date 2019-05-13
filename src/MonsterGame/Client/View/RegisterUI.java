@@ -1,7 +1,7 @@
 package MonsterGame.Client.View;
 
 import MonsterGame.Client.Controller.ClientController;
-import MonsterGame.Client.Model.ClientEngine;
+import MonsterGame.Client.Controller.ClientEngine;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;

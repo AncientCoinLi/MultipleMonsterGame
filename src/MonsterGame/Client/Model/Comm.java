@@ -7,6 +7,7 @@ import java.net.InetAddress;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
+import MonsterGame.Client.Controller.ClientEngine;
 import javafx.application.Platform;
 import javafx.scene.control.Alert;
 

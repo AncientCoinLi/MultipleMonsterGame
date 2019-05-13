@@ -7,9 +7,9 @@ import java.net.Socket;
 import java.util.HashMap;
 import java.util.Random;
 
+import MonsterGame.Server.Controller.ServerEngine;
 import MonsterGame.Server.Model.Receive;
 import MonsterGame.Server.Model.Send;
-import MonsterGame.Server.Model.ServerEngine;
 
 public class ServerStartup {
 	private static HashMap<String, Socket> allSocket = new HashMap<>();

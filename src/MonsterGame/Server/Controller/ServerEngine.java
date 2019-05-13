@@ -1,4 +1,4 @@
-package MonsterGame.Server.Model;
+package MonsterGame.Server.Controller;
 
 import java.io.EOFException;
 import java.io.FileInputStream;
@@ -13,7 +13,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-import MonsterGame.Server.Controller.ServerController;
+import MonsterGame.Server.Model.Map;
+import MonsterGame.Server.Model.Role;
+import MonsterGame.Server.Model.Send;
+import MonsterGame.Server.Model.User;
 
 /*
  * in charge of response to socket
